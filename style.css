@@ -13,35 +13,38 @@
 }
 
 .navbar{
-    width: 1200px;
+    width: 1500px;
     height: 60px;
+    margin-top: 25px;;
     float: left;
 }
 
 .icon{
-    width: 300px;
+    width: 400px;
     float: left;
+    font-size: 20px;
 }
 .menu {
-    width: 500px;
+    width: auto;
     height: 55px;
     float: left;
-    margin-left: 50px;
+    padding-top: 5px;
+    margin-left: 250px;
 }
 .menu ul{
     display: flex;
     justify-content: center;
     align-items: center;
     color: #fff;
-    font-size: 15px;
+    font-size: 10px;
     font-family: Arial;
     font-weight: bold;
 }
 .menu ul li{
-    margin-left:20px;
-    padding-right: 20px;
+    margin-left:10px;
+    padding-right: 10px;
     list-style: none;
-    font-size: 30px;
+    font-size: 20px;
 }
 .menu ul li a{
     text-decoration: none;
@@ -51,10 +54,47 @@
 .menu ul li a:hover{
     color:rgb(189, 31, 31);
 }
+#box{
+    margin-left:10px;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+    background:rgb(253, 253, 253);
+    text-align:center;
+}
+#button{
+    width: 70px;
+    height: 30px;
+    border-left: 300px;
+    border-radius: 5px;
+}
 
-.circle{
-    width: 50px;
-    height: 50px;
-    border-radius: 20px;
-    background:rgb(189, 31, 31);
+.content{
+    width: 1500px;
+    height: 700px;
+}
+.dev{
+    color: darkgoldenrod;
+}
+.welcome{
+    padding-top: 50px;
+    padding-left: 30px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.message{
+    padding-left: 30px;
+    padding-top: 200px;
+}
+.login{
+    background-color: whitesmoke;
+    border-radius: 10px;
+    box-shadow: dodgerblue;
+    width: 400px;
+    height: 200px;
+    padding:40px;
+    text-align: center;
+    float:left;
+
 }
