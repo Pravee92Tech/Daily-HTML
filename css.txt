@@ -1,0 +1,45 @@
+important topics in css
+------------------------
+Praveen K
+
+margin, 
+padding,
+position,
+float
+
+Agile methodology -- incremental model
+
+Spike --
+
+
+* media queries (Priyanka)---->
+
+1) working example
+2) document (word or docs)
+3) session
+-----------------------------------
+
+* z-index & overflow & display (Vignesh D) --->
+
+1) working example
+2) document (word or docs)
+3) session
+
+
+* box shadow, text shadow, box modelling (Pradeepa) --->
+
+1) working example
+2) document (word or docs)
+3) session
+
+Flex box (VigneshKarnan) --->
+
+1) working example
+2) document (word or docs)
+3) session
+
+Gradient (Indhumathi) --->
+
+1) working example
+2) document (word or docs)
+3) session
